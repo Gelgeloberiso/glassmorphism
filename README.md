@@ -1,4 +1,4 @@
-# glassmorphism
+# glassmorphism  animated
 responsive Glassmorphism login UI with pure html and css
 # how it looks on iphone 13 and above
 ![glass iphone 14](https://github.com/Gelgeloberiso/glassmorphism/assets/81536915/c67a7c00-53bd-4c1c-b894-46c8d95b0e10)
